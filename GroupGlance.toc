@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: GroupGlance
+## Notes: A compact, sortable replacement for the Looking For Group window.
+## X-Website: https://github.com/Ninsew/GroupGlance
+## Author: Ninsew
+## Version: 1.0.0
+## Category: Group Finder
+## IconTexture: Interface\Icons\INV_Misc_Spyglass_03
+## X-License: MIT
+## SavedVariables: GroupGlanceDB
+
+Core.lua
+Data.lua
+Window.lua
+Listing.lua
+Minimap.lua
